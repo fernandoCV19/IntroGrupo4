@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Fraccion
+comment1.params=numerador\ denominador
+comment1.target=Fraccion(int,\ int)
+comment2.params=fraccion
+comment2.target=Fraccion\ multiplicar(Fraccion)
+comment3.params=fraccion
+comment3.target=Fraccion\ multiplicar2(Fraccion)
+numComments=4

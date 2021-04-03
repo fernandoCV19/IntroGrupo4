@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Auto
+comment1.params=id\ marca\ color
+comment1.target=Auto(int,\ java.lang.String,\ java.lang.String)
+numComments=2

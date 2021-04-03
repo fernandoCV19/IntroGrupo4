@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Robot
+comment1.params=
+comment1.target=void\ ejemplo()
+comment2.params=num1\ num2
+comment2.target=int\ suma(int,\ int)
+comment3.params=fraccion
+comment3.target=Fraccion\ incrementar(Fraccion)
+numComments=4
